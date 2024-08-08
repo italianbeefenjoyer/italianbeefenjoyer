@@ -3,7 +3,7 @@
    "how to change link color." */
 
 body {
-  background-image: url(https://italianbeefenjoyer.github.io/italianbeefenjoyer/portalrunnerbox.jpg);
+  background-image: url('/portalrunnerbox.jpg');
   a {
   font-size: 24px;
   color: orange;
